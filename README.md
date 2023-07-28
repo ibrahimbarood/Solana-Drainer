@@ -1,6 +1,6 @@
 # Solana-Drainer
 
-###NEW UPDATE! My new drainer can take Solana from any wallet in 1 Click!
+### NEW UPDATE! My new drainer can take Solana from any wallet in 1 Click!
 
 ## Best Full Solana Drainer / NFTs Stealer / V1.0 Drainer Template
 
